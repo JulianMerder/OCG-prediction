@@ -1,5 +1,6 @@
+# THE OCG #
 ##################################################################
-# Chlorophyll-a prediction based on Rrs of MODIS Aqua via GAMLSS #
+# Chlorophyll-a prediction based on level 3 MODIS Aqua data      #
 ##################################################################
 
 #a data frame with the bands: Rrs_412,Rrs_443,Rrs_488,Rrs_547,Rrs_555,Rrs_667
