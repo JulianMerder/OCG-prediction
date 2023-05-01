@@ -1,4 +1,5 @@
-# Example Code: A novel algorithm to predict Ocean chlorophyll-a and prediction uncertainty from MODIS Aqua 
+# Example Code OCG: 
+## A novel algorithm for ocean chlorophyll-a and associated uncertainties from MODIS Aqua
 ### Julian Merder<sup>a</sup>, Gang Zhao<sup>a</sup>, Nima Pahlevan<sup>b,c</sup>, Robert A Rigby<sup>d</sup>, Dimitrios M Stasinopoulos<sup>d</sup>, Anna Michalak<sup>a</sup>
 
 <sup>a</sup>Department of Global Ecology, Carnegie Institution for Science, Stanford, CA, USA
