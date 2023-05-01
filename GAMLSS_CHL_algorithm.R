@@ -32,7 +32,7 @@ sigma_prediction<-exp(0.7915-32.5579*myData$Rrs_443+0.2316*log(myData$Rrs_555))
 nu_prediction<- 0.1957-62.8881*myData$Rrs_412
 
 # tau has log link
-tau_prediction<-exp(1.626)
+tau_prediction<-rep(exp(1.626),nrow(myData))
 
 # quantile I want to predict
 my_quantile<-0.5
