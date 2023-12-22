@@ -15,7 +15,7 @@ myData<-data.frame(Rrs_412=0.009470001,
                    Rrs_667=0.000388001,
                    Rrs_678=0.000500001)
 
-
+# or use csv: myData<-read.csv("satellite-matchups.csv")
 ########################################
 # how to calculate a selected quantile #
 ########################################
